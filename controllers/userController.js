@@ -65,7 +65,7 @@ module.exports = {
                 if (!user) {
                     res.status(404).json({ message: 'No user with this id found' })
                 }
-                // Remove a user's associated thoughts when deleted
+                // Remove a user's thoughts when deleted
                 Thought.deleteMany({ _id: { $in: user.thoughts } })
                 return res.json({
                     deletedUser: user,

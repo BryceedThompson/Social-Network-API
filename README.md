@@ -28,7 +28,7 @@ THEN you am able to successfully create and delete reactions to thoughts and add
 ```
 
 ## Video Link
-* [Watch video walk through here!](NEED make video)
+* [Watch video walk through here!](https://drive.google.com/file/d/17y-AycL9uSbfw93g9S-yc9VC9s2NA3Ll/view)
 
 ## Contact
 * [Github Link](https://github.com/BryceedThompson/Employee-Tracker)
@@ -41,11 +41,16 @@ THEN you am able to successfully create and delete reactions to thoughts and add
 * [MongoDB docs on MongoDB CRUD Operations](https://docs.mongodb.com/manual/crud/)
 * [MongoDB Compass docs on View Documents](https://docs.mongodb.com/compass/current/documents/view/)
 * [MongoDB Compass docs on Modify Documents](https://docs.mongodb.com/compass/current/documents/modify/)
-* 
-* 
-* 
-* 
-* 
+* [MongoDB docs on Sort](https://docs.mongodb.com/manual/reference/method/cursor.sort/)
+* [MongoDB docs on Skip](https://docs.mongodb.com/manual/reference/method/cursor.skip/)
+* [MongoDB docs on Limit](https://docs.mongodb.com/manual/reference/method/cursor.limit/)
+
+* [Mongoose docs on models](https://mongoosejs.com/docs/models.html) 
+* [Mongoose docs on schemas](https://mongoosejs.com/docs/guide.html)
+* [Mongoose docs on validation](https://mongoosejs.com/docs/validation.html)
+* [Mongoose docs on findOneAndUpdate()](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
+* [Mongoose docs on subdocuments](https://mongoosejs.com/docs/subdocs.html)
+* [Mongoose docs on constructing models](https://mongoosejs.com/docs/models.html)
 * 
 * 
 * 
