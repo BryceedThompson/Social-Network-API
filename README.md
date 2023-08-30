@@ -31,7 +31,7 @@ THEN you am able to successfully create and delete reactions to thoughts and add
 * [Watch video walk through here!](https://drive.google.com/file/d/17y-AycL9uSbfw93g9S-yc9VC9s2NA3Ll/view)
 
 ## Contact
-* [Github Link](https://github.com/BryceedThompson/Employee-Tracker)
+* [Github Link](https://github.com/BryceedThompson/Social-Network-API)
 * [Contact Me](mailto:bryceedthompson@gmail.com)
 
 ## Credit
