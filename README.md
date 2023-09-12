@@ -1,7 +1,7 @@
 # Social-Network-API
 
 ## Description
-The goal of this project is to byild an API for a social network web app where users can share their thoughts, react to friends’ thoughts, and create a friend list. It uses  [Express.js](https://www.npmjs.com/package/express) for routing, a MongoDB database, and the [Mongoose](https://www.npmjs.com/package/mongoose) ODM. Sadly this app is not deployed so there is a walkthrough video that demonstrates the functionality of the backend server.
+The goal of this project is to build an API for a social network web app where users can share their thoughts, react to friends’ thoughts, and create a friend list. It uses  [Express.js](https://www.npmjs.com/package/express) for routing, a MongoDB database, and the [Mongoose](https://www.npmjs.com/package/mongoose) ODM. Sadly this app is not deployed so there is a walkthrough video that demonstrates the functionality of the backend server.
 
 ## Install
 Download the file from my github and install Insomnia!
@@ -51,7 +51,4 @@ THEN you am able to successfully create and delete reactions to thoughts and add
 * [Mongoose docs on findOneAndUpdate()](https://mongoosejs.com/docs/tutorials/findoneandupdate.html)
 * [Mongoose docs on subdocuments](https://mongoosejs.com/docs/subdocs.html)
 * [Mongoose docs on constructing models](https://mongoosejs.com/docs/models.html)
-* 
-* 
-* 
-* 
+  
